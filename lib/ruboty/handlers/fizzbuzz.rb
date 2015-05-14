@@ -1,7 +1,7 @@
-require 'ruboty/Fizzbuzz/actions/fizzbuzz'
+require 'ruboty/fizzbuzz/actions/fizzbuzz'
 
 module Ruboty
-  module Handler
+  module Handlers
     class Fizzbuzz < Base
       on /fizzbuzz (?<number>.*?)\z/, name: 'fizzbuzz', description: 'output fizzbuzz result'
 
