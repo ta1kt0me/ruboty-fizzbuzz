@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["ta1kt0me"]
   spec.email         = ["p.wadachi@gmail.com"]
 
-  spec.summary       = %q{Fizzbuzz plugin}
-  spec.description   = %q{Return Fizzbuzz 3, 5, 15}
+  spec.summary       = "hoge"
+  spec.description   = "fuga"
   spec.homepage      = "hoge"
   spec.license       = "MIT"
 
