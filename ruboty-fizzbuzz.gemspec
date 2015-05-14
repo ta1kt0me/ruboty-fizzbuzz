@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "hoge"
   spec.description   = "fuga"
-  spec.homepage      = "hoge"
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
